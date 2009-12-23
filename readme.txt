@@ -96,3 +96,7 @@ http://www.jamesmckay.net/2007/04/how-to-report-issues-with-wordpress-plugins/
 For more information, please visit the plugin's home page:
 
 http://www.jamesmckay.net/code/three-strikes/
+
+The Mercurial repository and issue tracker for this plugin are at:
+
+http://bitbucket.org/jammycakes/three-strikes/
